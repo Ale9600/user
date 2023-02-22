@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.us.user
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, data, data-mongodb-reactive, gradle, groovy, groovy-application, http-client, junit, logback, micronaut-build, netty-server, reactor, reactor-http-client, readme, serialization-bson, shade, test-resources, yaml]
